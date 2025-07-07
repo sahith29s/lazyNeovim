@@ -9,3 +9,10 @@ sahith.backspace = "indent,eol,start"
 sahith.smartindent = true
 sahith.wrap = true
 sahith.scrolloff = 10
+-- sahith.clipboard:append("unnamedplus")
+--
+-- sahith.clipboard:append("unnamedplus")
+sahith.clipboard = "unnamedplus"
+sahith.termguicolors = true
+sahith.background = "dark"
+sahith.signcolumn = "yes"
